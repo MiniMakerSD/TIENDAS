@@ -4,7 +4,7 @@ El señor Juan posee cuatro tiendas y busca vender una para invertir las gananci
 
 ---
 
-## 🚀 Acerca del Desafío
+## SOBRE EL DESAFÍO
 
 ### 1. **Importación de Datos**
 
