@@ -13,7 +13,7 @@ Los datos de las tiendas se obtuvieron de archivos CSV alojados en el siguiente 
 
 ### 2. **Análisis de Ventas y Rendimiento**
 
-El análisis se centró en las siguientes métricas clave para cada tienda:
+Para poder conocer cúal de todas las tiendas es la de menor rendimiento, se realizará un análisis teniendo en cuenta las siguientes métricas clave para cada tienda:
 
 * **Total de ingresos**
 * **Top ventas por categoría**
@@ -23,4 +23,4 @@ El análisis se centró en las siguientes métricas clave para cada tienda:
 
 ### 3. **Informe Final**
 
-El informe detallado y la conclusión del análisis se encuentran al final del archivo principal del proyecto: `AluraStoreLatam.ipynb`.
+Al finalizar el análisis de las tiendas, se realizará un informe explicando y detallando sobre la tienda que deberá ser vendida. Todo eso estará escrito al final del archivo principal del proyecto: `AluraStoreLatam.ipynb`.
